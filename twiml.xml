@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice" language="ja-JP">緊急メールを受信しました。確認してください。</Say>
+</Response>
